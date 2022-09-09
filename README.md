@@ -1,2 +1,2 @@
-- 👋Hi, I’m @JGELLO
+- 👋Hi, I’m @Angelo
 - 🐱‍👤I’m educating myself in coding ...
