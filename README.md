@@ -4,7 +4,7 @@ Welcome to my portfolio! I'm Angelo, a dedicated developer passionate about craf
 
 ## Connect With Me
 
-Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/angelo-cabaluna-55a407240){:target="_blank"} or drop me an email at [angeloalceracabaluna@gmail.com](mailto:angeloalceracabaluna@gmail.com). I'm always open to exciting projects and opportunities.
+Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/angelo-cabaluna-55a407240) or drop me an email at [angeloalceracabaluna@gmail.com](mailto:angeloalceracabaluna@gmail.com). I'm always open to exciting projects and opportunities.
 
 
 ## Skills & Tools & Everything Else in Between
