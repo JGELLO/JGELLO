@@ -12,7 +12,7 @@ Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https:
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
   
-## Tools/Frameworks/Libaries/CMS Familiar with
+## Tools/Frameworks/Libaries/CMS - Familiar with
 
 ![SQL](https://img.icons8.com/color/48/000000/sql.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
@@ -31,6 +31,6 @@ Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https:
 
 ## Websites In Development & Finished
 
-[GitHubPages(React)](https://jgello.github.io/React-Pages/) 
-[WordPress](https://stnicolasinn.com/) 
-[WebFlow](https://portfolio-11f741.webflow.io/) 
+![GitHubPages(React)](https://jgello.github.io/React-Pages/) 
+![WordPress](https://stnicolasinn.com/) 
+![WebFlow](https://portfolio-11f741.webflow.io/) 
