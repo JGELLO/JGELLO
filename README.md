@@ -4,13 +4,13 @@ Welcome to my portfolio! I'm Angelo, a dedicated developer passionate about craf
 
 ## Connect With Me
 
-Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](linkedin.com/in/angelo-cabaluna-55a407240) or drop me an email at [angeloalceracabaluna@gmail.com](mailto:angeloalceracabaluna@gmail.com). I'm always open to exciting projects and opportunities.
+Let's connect and collaborate! Feel free to reach out to me on <a href="linkedin.com/in/angelo-cabaluna-55a407240" target="_blank">LinkedIn</a> or drop me an email at [angeloalceracabaluna@gmail.com](mailto:angeloalceracabaluna@gmail.com). I'm always open to exciting projects and opportunities.
 
 ## Skills and Tools
 
 ### Languages & Tools & Everything Else in Between
-- **JavaScript**: ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- **SQL**: ![SQL](https://img.icons8.com/color/48/000000/sql.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![SQL](https://img.icons8.com/color/48/000000/sql.png)
 - **React**: ![React](https://img.icons8.com/color/48/000000/react-native.png)
 - **Flutter**: ![Flutter](https://img.icons8.com/color/48/000000/flutter.png)
 - **Node.js**: ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
