@@ -31,7 +31,7 @@ Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https:
 
 ## Websites In Development & Finished
 
-[![WordPress](https://img.icons8.com/color/48/000000/wordpress.png)](https://stnicolasinn.com/)
-[![Webflow](https://img.icons8.com/color/48/000000/webflow.png)](https://portfolio-11f741.webflow.io/)
-[![GitHubPages(React)](https://img.icons8.com/ios-filled/50/000000/domain.png)](https://example.com/)
+[![WordPress](https://img.icons8.com/color/48/000000/wordpress.png)](https://stnicolasinn.com/) <br>
+[![Webflow](https://img.icons8.com/color/48/000000/webflow.png)](https://portfolio-11f741.webflow.io/) <br>
+[![GitHubPages(React)](https://img.icons8.com/ios-filled/50/000000/domain.png)](https://example.com/) <br>
 
