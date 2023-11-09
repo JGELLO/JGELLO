@@ -31,6 +31,6 @@ Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https:
 
 ## Websites In Development & Finished
 
-![GitHubPages(React)](https://jgello.github.io/React-Pages/) 
-![WordPress](https://stnicolasinn.com/) 
-![WebFlow](https://portfolio-11f741.webflow.io/) 
+[GitHubPages(React)](https://jgello.github.io/React-Pages/) <br>
+[WordPress](https://stnicolasinn.com/) <br>
+[WebFlow](https://portfolio-11f741.webflow.io/) <br> 
