@@ -33,5 +33,5 @@ Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https:
 
 [![WordPress](https://img.icons8.com/color/48/000000/wordpress.png)](https://stnicolasinn.com/) &nbsp; 
 [![Webflow](https://img.icons8.com/color/48/000000/webflow.png)](https://portfolio-11f741.webflow.io/) &nbsp; 
-[![GitHubPages(React)](https://img.icons8.com/ios-filled/50/000000/domain.png)](https://example.com/) &nbsp; )
+[![GitHubPages(React)](https://img.icons8.com/ios-filled/50/000000/domain.png)](https://example.com/) &nbsp; 
 
