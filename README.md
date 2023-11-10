@@ -1,6 +1,6 @@
-# Hi, I am Angelo! 👋
+# Hi, I am @Angelo! 👋
 
-Welcome to my portfolio! I'm Angelo, a dedicated developer passionate about crafting elegant and efficient solutions. Below, you'll find an overview of my skills and the tools I use to bring ideas to life.
+I'm @Angelo, a dedicated developer passionate about crafting elegant and efficient solutions. Below, you'll find an overview of my skills and the tools I use to bring ideas to life.
 
 ## Connect With Me
 
