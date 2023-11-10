@@ -1,6 +1,6 @@
-# Hi, I am @Angelo! 👋
+# Hi, I am Angelo! 👋
 
-I'm @Angelo, a dedicated developer passionate about crafting elegant and efficient solutions. Below, you'll find an overview of my skills and the tools I use to bring ideas to life.
+I'm Angelo, a dedicated developer passionate about crafting elegant and efficient solutions. Below, you'll find an overview of my skills and the tools I use to bring ideas to life.
 
 ## Connect With Me
 
@@ -32,6 +32,5 @@ Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https:
 ## Websites In Development & Finished
 
 [![WordPress](https://img.icons8.com/color/48/000000/wordpress.png)](https://stnicolasinn.com/) &nbsp; 
-[![Webflow](https://img.icons8.com/color/48/000000/webflow.png)](https://portfolio-11f741.webflow.io/) &nbsp; 
-[![GitHubPages(React)](https://img.icons8.com/ios-filled/50/000000/domain.png)](https://example.com/) &nbsp; 
+[![GitHubPages(React)](https://img.icons8.com/ios-filled/50/000000/domain.png)](https://jgello.github.io/React-Pages/) &nbsp; 
 
