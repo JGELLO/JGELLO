@@ -28,6 +28,7 @@ Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https:
 ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png)
 ![Webflow](https://img.icons8.com/color/48/000000/webflow.png)
 ![Jira](https://img.icons8.com/color/48/000000/jira.png)
+[![Pi-hole](https://img.icons8.com/color/48/000000/raspberry-pi.png)](https://pi-hole.net/)
 
 ## Websites In Development & Finished
 
